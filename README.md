@@ -2,7 +2,9 @@
 <html>
 <head>
   <style>
+    </head>
 <body>
+  
   <h3>Scanner Project Instructions 📝</h3>
   <h4><b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to enter. Then, you should proceed to accept this many integers. Once you have accepted all of the
 integers, find the sum and mean. Print these values for the user.</h4>
