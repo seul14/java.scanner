@@ -16,10 +16,10 @@ Print their Star Wars Name using the following criteria:
 Star Wars First Name = first three letters of last name + first 2 letters of first name
 Star Wars Last Name = first two letters of middle name + first three letters of town of birth
 <details>
-  <summary> <h3>Scanner Project Rubric 📚</h3></summary>
+  <summary><h3>Scanner Project Rubric 📚</h3></summary>
  <table style="width:100%">
   <tr>
-    <th colspan="2"><b>Scanner Basics</th>
+    <th colspan="2"; text-align: left><b>Scanner Basics</th>
   </tr>
   <tr>
     <td>1) import is correct </td>
