@@ -1,4 +1,4 @@
-<h3>Scanner Project 🚩</h3>
+<h3>Scanner Project Instructions 📝</h3>
   <b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to
 enter. Then, you should proceed to accept this many integers. Once you have accepted all of the
 integers, find the sum and mean. Print these values for the user.
@@ -15,20 +15,25 @@ Prompt the user for the following information:
 Print their Star Wars Name using the following criteria:
 Star Wars First Name = first three letters of last name + first 2 letters of first name
 Star Wars Last Name = first two letters of middle name + first three letters of town of birth
-
 <br> <details>
-  <summary> <h3>Scanner Project 🚩</h3></summary>
-  Scanner Basics
-1) import is correct _____ / 1
-Part I: Statistics Program
-1) Prompts user for input _____ / 1
-2) Correctly accepts user input for number of values _____ / 1
-3) Loops to accept the appropriate number of values based on criteria #2 _____ / 1
-4) Prompts user for input values and correctly accepts those values _____ / 1
-5) Uses input to correctly calculate sum _____ / 1
-6) Uses input to correctly calculate average _____ / 1
-Part II: Star Wars Name Program
-1) Prompts user for input _____ / 1
-2) Correctly accepts user input for number of values _____ / 1
-3) Determines the user’s Star Wars name given the formula
-  
+  <summary> <h3>Scanner Project Rubric 📚</h3></summary>
+ <table style="width:100%">
+  <tr>
+    <th><b>Scanner Basics</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
