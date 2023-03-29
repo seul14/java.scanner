@@ -1,10 +1,10 @@
 <details>
 <summary><h3>Scanner Project 🚩</h3></summary>
-Part I: Imagine you are a statistician. You should ask the user how many numbers they are going to
+  <b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to
 enter. Then, you should proceed to accept this many integers. Once you have accepted all of the
 integers, find the sum and mean. Print these values for the user.
 
-Part II: Rumor has it that George Lucas may use a “formula” to create all of those strange sounding
+  <b>Part II:</b> Rumor has it that George Lucas may use a “formula” to create all of those strange sounding
 names you see in the Star Wars movies (Jar Jar Binks, ObiWan, etc.)
 Write a program that allows users to see what their Star Wars name might be according to the
 suggested “formula”, follow the steps below.
