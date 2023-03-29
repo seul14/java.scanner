@@ -84,8 +84,8 @@ suggested “formula”, follow the steps below.</p>
         <td>3) Determines the user’s Star Wars name given the formula</td>
         <td>_____ / 1</td>
       </tr>
-      <tr>
-        <th style="height: 200px"; colspan="2"> </th>
+      <tr style="height: 200px">
+        <th colspan="2"> </th>
       </tr>
     </table>
 </details>
