@@ -70,7 +70,7 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
   </tr>
    <tr>
     <th colspan="2"; rowspan="2"> </th>
-  </tr>
+   </tr>
   
   <tr>
     <td></td>
