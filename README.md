@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+    .left {
+      text-align: left;
+    }
+  </style>
 </head>
 <body>
   
@@ -31,7 +36,7 @@ suggested “formula”, follow the steps below.</p>
   <summary><h3>Scanner Project Rubric 📚</h3></summary>
     <table style="width:70%">
       <tr>
-        <th colspan="2"><b>Scanner Basics</th>
+        <th class="left"; colspan="2"><b>Scanner Basics</th>
       </tr>
       <tr>
         <td>1) import is correct</td>
@@ -80,7 +85,7 @@ suggested “formula”, follow the steps below.</p>
         <td>_____ / 1</td>
       </tr>
       <tr>
-        <th colspan="2"; rowspan="2"> </th>
+        <th style="height: 200px"; colspan="2"> </th>
       </tr>
     </table>
 </details>
