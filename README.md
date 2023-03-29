@@ -68,6 +68,9 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
     <td>3) Determines the user’s Star Wars name given the formula</td>
           <td>_____ / 1</td>
   </tr>
+   <tr>
+    <th colspan="2"></th>
+  </tr>
   
   
 
