@@ -17,7 +17,7 @@ Star Wars First Name = first three letters of last name + first 2 letters of fir
 Star Wars Last Name = first two letters of middle name + first three letters of town of birth
 <details>
   <summary><h3>Scanner Project Rubric 📚</h3></summary>
- <table style="width:100%">
+ <table style="width:70%">
   <tr>
     <th colspan="2"><b>Scanner Basics</th>
   </tr>
