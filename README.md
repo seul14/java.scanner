@@ -5,7 +5,7 @@
 <body>
   
 <h1>Scanner Project Instructions 📝</h1>
-<b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to enter. Then, you should proceed to accept this many integers. Once you have accepted all of the integers, find the sum and mean. Print these values for the user.
+<p><b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to enter. Then, you should proceed to accept this many integers. Once you have accepted all of the integers, find the sum and mean. Print these values for the user.</p>
     
 <br><b>Part II:</b> Rumor has it that George Lucas may use a “formula” to create all of those strange   sounding
 names you see in the Star Wars movies (Jar Jar Binks, ObiWan, etc.)
