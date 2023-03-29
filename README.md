@@ -53,5 +53,22 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
     <td>6) Uses input to correctly calculate average</td>
           <td>_____ / 1</td>
   </tr>
+   <tr>
+    <th colspan="2"><b>Part II: Star Wars Name Program</th>
+  </tr>
+   <tr>
+    <td>1) Prompts user for input</td>
+          <td>_____ / 1</td>
+  </tr>
+   <tr>
+    <td>2) Correctly accepts user input for number of values</td>
+          <td>_____ / 1</td>
+  </tr>
+    <tr>
+    <td>3) Determines the user’s Star Wars name given the formula</td>
+          <td>_____ / 1</td>
+  </tr>
+  
+  
 
 </table>
