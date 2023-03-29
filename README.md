@@ -34,7 +34,7 @@ suggested “formula”, follow the steps below.</p>
         <th colspan="2">Scanner Basics</th>
       </tr>
       <tr>
-        <td>1) import is correct</td>
+        <td>1) Import is correct</td>
         <td>_____ / 1</td>
       </tr>
       <tr>
