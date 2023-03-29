@@ -15,7 +15,7 @@ Prompt the user for the following information:
 Print their Star Wars Name using the following criteria:
 Star Wars First Name = first three letters of last name + first 2 letters of first name
 Star Wars Last Name = first two letters of middle name + first three letters of town of birth
-<br> <details>
+<details>
   <summary> <h3>Scanner Project Rubric 📚</h3></summary>
  <table style="width:100%">
   <tr>
