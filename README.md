@@ -82,7 +82,8 @@ suggested “formula”, follow the steps below.</p>
       <tr>
         <th colspan="2"; rowspan="2"> </th>
       </tr>
-</table>
+    </table>
+</details>
 
 </body>
 </html>
