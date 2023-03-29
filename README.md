@@ -28,11 +28,6 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
   <tr>
     <td>Eve</td>
     <td>Jackson</td>
-    <td>94</td>
   </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
+
 </table>
