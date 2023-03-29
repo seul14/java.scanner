@@ -1,4 +1,4 @@
-<details>
+
 <summary><h3>Scanner Project 🚩</h3></summary>
   <b>Part I:</b> Imagine you are a statistician. You should ask the user how many numbers they are going to
 enter. Then, you should proceed to accept this many integers. Once you have accepted all of the
