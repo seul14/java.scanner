@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .left {
-      text-align: left;
-    }
-  </style>
 </head>
 <body>
   
@@ -34,9 +29,9 @@ suggested “formula”, follow the steps below.</p>
 
 <details>
   <summary><h3>Scanner Project Rubric 📚</h3></summary>
-    <table style="width:70%">
+    <table>
       <tr>
-        <th class="left"; colspan="2"><b>Scanner Basics</th>
+        <th colspan="2">Scanner Basics</th>
       </tr>
       <tr>
         <td>1) import is correct</td>
@@ -84,7 +79,7 @@ suggested “formula”, follow the steps below.</p>
         <td>3) Determines the user’s Star Wars name given the formula</td>
         <td>_____ / 1</td>
       </tr>
-      <tr style="height: 200px">
+      <tr>
         <th colspan="2"> </th>
       </tr>
     </table>
