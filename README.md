@@ -22,7 +22,7 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
     <th colspan="2"; text-align: left><b>Scanner Basics</th>
   </tr>
   <tr>
-    <td>1) import is correct </td>
+    <td>1) import is correct            </td>
       <td>_____ / 1</td>
   </tr>
   <tr>
