@@ -29,61 +29,60 @@ suggested “formula”, follow the steps below.</p>
 
 <details>
   <summary><h3>Scanner Project Rubric 📚</h3></summary>
- <table style="width:70%">
-  <tr>
-    <th colspan="2"><b>Scanner Basics</th>
-  </tr>
-  <tr>
-    <td>1) import is correct</td>
-          <td>_____ / 1</td>
-  </tr>
-  <tr>
-    <th colspan="2"><b>Part I: Statistics Program</th>
-  </tr>
-    <tr>
-    <td>1) Prompts user for input</td>
-          <td>_____ / 1</td>
-  </tr>
-    <tr>
-    <td>2) Correctly accepts user input for number of values</td>
-          <td>_____ / 1</td>
-  </tr>
-    </tr>
-    <tr>
-    <td>3) Loops to accept the appropriate number of values based on criteria #2</td>
-          <td>_____ / 1</td>
-  </tr>
-   <tr>
-    <td>4) Prompts user for input values and correctly accepts those values</td>
-          <td>_____ / 1</td>
-  </tr>
-  <tr>
-    <td>5) Uses input to correctly calculate sums</td>
-          <td>_____ / 1</td>
-  </tr>
-    <tr>
-    <td>6) Uses input to correctly calculate average</td>
-          <td>_____ / 1</td>
-  </tr>
-   <tr>
-    <th colspan="2"><b>Part II: Star Wars Name Program</th>
-  </tr>
-   <tr>
-    <td>1) Prompts user for input</td>
-          <td>_____ / 1</td>
-  </tr>
-   <tr>
-    <td>2) Correctly accepts user input for number of values</td>
-          <td>_____ / 1</td>
-  </tr>
-    <tr>
-    <td>3) Determines the user’s Star Wars name given the formula</td>
-          <td>_____ / 1</td>
-  </tr>
-   <tr>
-    <th colspan="2"; ROWSPAN="2"> </th>
-   </tr>
-
+    <table style="width:70%">
+      <tr>
+        <th colspan="2"><b>Scanner Basics</th>
+      </tr>
+      <tr>
+        <td>1) import is correct</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <th colspan="2"><b>Part I: Statistics Program</th>
+      </tr>
+      <tr>
+        <td>1) Prompts user for input</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>2) Correctly accepts user input for number of values</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>3) Loops to accept the appropriate number of values based on criteria #2</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>4) Prompts user for input values and correctly accepts those values</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>5) Uses input to correctly calculate sums</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>6) Uses input to correctly calculate average</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <th colspan="2"><b>Part II: Star Wars Name Program</th>
+      </tr>
+      <tr>
+        <td>1) Prompts user for input</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>2) Correctly accepts user input for number of values</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <td>3) Determines the user’s Star Wars name given the formula</td>
+        <td>_____ / 1</td>
+      </tr>
+      <tr>
+        <th colspan="2"; rowspan="2"> </th>
+      </tr>
 </table>
+
 </body>
 </html>
