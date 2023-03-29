@@ -10,20 +10,22 @@
 
 <br>
 
-<p>
-<b>Part II:</b> Rumor has it that George Lucas may use a “formula” to create all of those strange sounding
-names you see in the Star Wars movies (Jar Jar Binks, ObiWan, etc.)
-Write a program that allows users to see what their Star Wars name might be according to the
-suggested “formula”, follow the steps below.
-Prompt the user for the following information:
-1. First Name
-2. Middle Name
-3. Last Name
-4. The Town of their Birth
-Print their Star Wars Name using the following criteria:
-Star Wars First Name = first three letters of last name + first 2 letters of first name
-Star Wars Last Name = first two letters of middle name + first three letters of town of birth
-</p>
+<p><b>Part II:</b> Rumor has it that George Lucas may use a “formula” to create all of those strange sounding
+names you see in the Star Wars movies (Jar Jar Binks, ObiWan, etc.)</p>
+
+<p>Write a program that allows users to see what their Star Wars name might be according to the
+suggested “formula”, follow the steps below.</p>
+
+<p>Prompt the user for the following information:</p>
+<ol type="1">
+  <li>First Name</li>
+  <li>Middle Name</li>
+  <li>Last Name</li>
+  <li>The Town of their Birth</li>
+</ol>
+<p>Print their Star Wars Name using the following criteria:</p>
+  <p>Star Wars First Name = first three letters of last name + first 2 letters of first name</p>
+<p>Star Wars Last Name = first two letters of middle name + first three letters of town of birth</p>
 
 <details>
   <summary><h3>Scanner Project Rubric 📚</h3></summary>
