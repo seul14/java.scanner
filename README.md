@@ -18,7 +18,7 @@ Star Wars Last Name = first two letters of middle name + first three letters of 
 <details>
   <summary> <h3>Scanner Project Rubric 📚</h3></summary>
  <table style="width:100%">
-  <tr>
+  <tr colspan="2">
     <th><b>Scanner Basics</th>
   </tr>
   <tr>
